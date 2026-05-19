@@ -12,6 +12,7 @@ Estudante de Ciência da Computação focada em desenvolvimento de software.
 - Git/GitHub
 
 ## Atualmente estudando
-- Estruturas de dados
-- Programação orientada a objetos
-- Banco de dados
+- Estruturas de dados aplicados em C
+- Desenvolvimento de software em Java
+- Matemática discreta
+  
