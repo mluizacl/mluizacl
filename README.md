@@ -13,5 +13,3 @@ Estudante de Ciência da Computação focada em desenvolvimento de software.
 ## Atualmente estudando
 - Estruturas de dados aplicados em C
 - Desenvolvimento de software em Java
-- Matemática discreta
-  
