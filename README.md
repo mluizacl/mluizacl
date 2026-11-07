@@ -6,8 +6,6 @@
 
 ### Ciência da Computação · Explorando a tecnologia
 
-<sub>Aprendendo e construindo meu caminho na tecnologia.</sub>
-
 <br><br>
 
 `୨୧ system online · learning mode enabled ୨୧`
