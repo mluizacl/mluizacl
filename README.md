@@ -25,11 +25,8 @@
 
 ### `~/about_me` ⋆˚✧
 
-Olá! Sou a Maria Luiza, estudante do 4º período de Ciência da Computação na Universidade Positivo, em Curitiba – PR.
-
-Tenho interesse em desenvolvimento de software e compartilho aqui meus projetos acadêmicos, estudos e minha evolução na programação.
-
-Cursando Ciência da Computação desde 2025.
+Oi, eu sou a Maria Luiza! ♡
+Estudo Ciência da Computação na Universidade Positivo e por aqui compartilho meus projetos e o que estou aprendendo.
 
 <br>
 
@@ -54,13 +51,11 @@ Cursando Ciência da Computação desde 2025.
 <br>
 
 ### `~/currently_learning` ♡
-
-```text
-> Desenvolvimento de software visual.
-> Sistemas computacionais de base.
-> Sistemas inteligentes.
-> Tópicos especiais em software.
-```
+- C# e ASP.NET Core.
+- Python para coleta e análise de dados.
+- Banco de dados com MySQL e SQLite.
+- HTML e CSS.
+- Inteligência artificial aplicada a dados.
 
 <br>
 
