@@ -19,20 +19,20 @@
 
 <br>
 
-### 🌷 Sobre mim
+### Sobre mim
 
 Olá! Sou a **Maria Luiza**, estudante do **4º período de Ciência da Computação na Universidade Positivo**, em Curitiba – PR.
 
 Tenho interesse em desenvolvimento de software e compartilho aqui meus projetos acadêmicos, estudos e minha evolução na programação.
 
-- 🎓 Cursando Ciência da Computação desde 2025.
-- 💼 Jovem Aprendiz na área de RH do Madero.
-- 💻 Buscando uma oportunidade de **estágio em TI**.
-- 🌱 Estudando estruturas de dados em C e desenvolvimento em Java.
+- Cursando Ciência da Computação desde 2025.
+- Jovem Aprendiz na área de RH do Madero.
+- Buscando uma oportunidade de **estágio em TI**.
+- Estudando estruturas de dados em C e desenvolvimento em Java.
 
 <br>
 
-### 🧩 Tecnologias que estudo
+### Tecnologias que estudo
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-F3DDE3?style=for-the-badge&logo=c&logoColor=655A60" alt="C">
@@ -52,7 +52,7 @@ Tenho interesse em desenvolvimento de software e compartilho aqui meus projetos 
 
 <br>
 
-### 📖 Atualmente estudando
+### Atualmente estudando
 
 - Estruturas de dados em C.
 - Desenvolvimento de software em Java.
@@ -60,7 +60,7 @@ Tenho interesse em desenvolvimento de software e compartilho aqui meus projetos 
 
 <br>
 
-### 🗂️ Projetos
+### Projetos
 
 Meus repositórios reúnem exercícios e projetos acadêmicos que acompanham minha formação em tecnologia.
 
