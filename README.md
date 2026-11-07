@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14111C,50:704264,100:F2A4CE&height=180&section=header&text=Maria%20Luiza&fontSize=42&fontColor=FCE7F3&animation=fadeIn" width="100%" alt="Banner em degradê escuro e rosa com o nome ୨୧Maria Luiza">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16121f,50:69415e,100:f2a4ce&height=150&section=header" width="100%" />
+
+# ୨୧ Maria Luiza
 
 ### Ciência da Computação · Desenvolvimento de Software
 
