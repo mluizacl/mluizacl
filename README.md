@@ -51,11 +51,14 @@ Estudo Ciência da Computação na Universidade Positivo e por aqui compartilho 
 <br>
 
 ### `~/currently_learning` ♡
-- C# e ASP.NET Core.
-- Python para coleta e análise de dados.
-- Banco de dados com MySQL e SQLite.
-- HTML e CSS.
-- Inteligência artificial aplicada a dados.
+
+```text
+> C# e ASP.NET Core.
+> Python para coleta e análise de dados.
+> Banco de dados com MySQL e SQLite.
+> HTML e CSS.
+> Inteligência artificial aplicada a dados.
+```
 
 <br>
 
