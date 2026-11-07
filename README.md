@@ -64,7 +64,7 @@ Estudo Ciência da Computação na Universidade Positivo e por aqui compartilho 
 
 ### `~/projects` ⋆˚✧
 
-Meus repositórios reúnem exercícios e projetos acadêmicos que acompanham minha formação em tecnologia.
+Meus repositórios reúnem exercícios e projetos acadêmicos desenvolvidos ao longo da minha graduação.
 
 **Confira os projetos fixados abaixo!**
 
