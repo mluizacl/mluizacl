@@ -1,41 +1,95 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16121f,50:69415e,100:f2a4ce&height=150&section=header" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14111C,50:704264,100:F2A4CE&height=180&section=header&text=Maria%20Luiza&fontSize=42&fontColor=FCE7F3&animation=fadeIn" width="100%" alt="Banner em degradê escuro e rosa com o nome Maria Luiza">
 
-# ୨୧ Maria Luiza
+### Ciência da Computação · Desenvolvimento de Software
 
-Estudante de Ciência da Computação focada em desenvolvimento de software.
+<sub>Aprendendo e construindo meu caminho na tecnologia.</sub>
+
+<br><br>
+
+`୨୧ system online · learning mode enabled ୨୧`
+
+<br><br>
+
+<a href="mailto:mluizac.lisboa@gmail.com">
+  <img src="https://img.shields.io/badge/E--mail-211923?style=for-the-badge&logo=gmail&logoColor=F2A4CE" alt="E-mail">
+</a>
+<a href="https://github.com/mluizacl">
+  <img src="https://img.shields.io/badge/GitHub-211923?style=for-the-badge&logo=github&logoColor=F2A4CE" alt="GitHub">
+</a>
 
 </div>
 
 <br>
 
-### ＄ ls technologies/
+### `~/about_me` ⋆˚✧
+
+Olá! Sou a **Maria Luiza**, estudante do **4º período de Ciência da Computação na Universidade Positivo**, em Curitiba – PR.
+
+Tenho interesse em desenvolvimento de software e compartilho aqui meus projetos acadêmicos, estudos e minha evolução na programação.
+
+- 🎓 Cursando Ciência da Computação desde 2025.
+- 💼 Jovem Aprendiz na área de RH do Madero.
+- 💻 Buscando uma oportunidade de **estágio em TI**.
+- 🌱 Estudando estruturas de dados em C e desenvolvimento em Java.
+
+<br>
+
+### `~/technologies` ⌨︎
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-211923?style=for-the-badge&logo=c&logoColor=F2A4CE" alt="C" />
-  <img src="https://img.shields.io/badge/Java-211923?style=for-the-badge&logo=openjdk&logoColor=F2A4CE" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-211923?style=for-the-badge&logo=mysql&logoColor=F2A4CE" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-211923?style=for-the-badge&logo=html5&logoColor=F2A4CE" alt="HTML" />
-  <img src="https://img.shields.io/badge/CSS3-211923?style=for-the-badge&logo=css&logoColor=F2A4CE" alt="CSS" />
-  <img src="https://img.shields.io/badge/JavaScript-211923?style=for-the-badge&logo=javascript&logoColor=F2A4CE" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/C-211923?style=for-the-badge&logo=c&logoColor=F2A4CE" alt="C">
+  <img src="https://img.shields.io/badge/C%23-302035?style=for-the-badge&logoColor=F2A4CE" alt="C#">
+  <img src="https://img.shields.io/badge/Java-211923?style=for-the-badge&logoColor=F2A4CE" alt="Java">
+  <img src="https://img.shields.io/badge/Python-302035?style=for-the-badge&logo=python&logoColor=F2A4CE" alt="Python">
+  <img src="https://img.shields.io/badge/JavaScript-211923?style=for-the-badge&logo=javascript&logoColor=F2A4CE" alt="JavaScript">
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-302035?style=for-the-badge&logo=html5&logoColor=F2A4CE" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-211923?style=for-the-badge&logo=css&logoColor=F2A4CE" alt="CSS3">
+  <img src="https://img.shields.io/badge/SQL-302035?style=for-the-badge&logoColor=F2A4CE" alt="SQL">
+</p>
+
+<p align="center">
+  <sub>Conhecimentos desenvolvidos durante meus estudos e projetos acadêmicos.</sub>
 </p>
 
 <br>
 
-### ＄ cat learning.log
+### `~/currently_learning` ♡
 
-Atualmente estudando:
+```text
+> Estruturas de dados em C.
+> Desenvolvimento de software em Java.
+> Aplicação de lógica de programação na resolução de problemas.
+```
 
-- Estruturas de dados aplicados em **C**.
-- Desenvolvimento de software em **Java**.
+<br>
+
+### `~/projects` ⋆˚✧
+
+Meus repositórios reúnem exercícios e projetos acadêmicos que acompanham minha formação em tecnologia.
+
+**Confira os projetos fixados abaixo!**
+
+<!-- Para destacar um projeto aqui, retire este comentário e preencha:
+
+#### [Nome do projeto](LINK_DO_REPOSITORIO)
+Uma descrição curta sobre o que o projeto faz.
+
+- Tecnologias: ferramentas e linguagens utilizadas.
+- Minha participação: o que desenvolvi no projeto.
+
+-->
 
 <br>
 
 <div align="center">
 
-♡ ✧ ♡
+`୨୧ saving progress... ♡`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16121f,50:69415e,100:f2a4ce&height=100&section=footer" width="100%" />
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:14111C,50:704264,100:F2A4CE&height=100&section=footer" width="100%" alt="Rodapé em degradê escuro e rosa">
 
 </div>
