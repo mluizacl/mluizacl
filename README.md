@@ -31,14 +31,14 @@ Olá! Sou a **Maria Luiza**, estudante do **4º período de Ciência da Computa�
 
 Tenho interesse em desenvolvimento de software e compartilho aqui meus projetos acadêmicos, estudos e minha evolução na programação.
 
-- 🎓 Cursando Ciência da Computação desde 2025.
-- 💼 Jovem Aprendiz na área de RH do Madero.
-- 💻 Buscando uma oportunidade de **estágio em TI**.
-- 🌱 Estudando estruturas de dados em C e desenvolvimento em Java.
+- Cursando Ciência da Computação desde 2025.
+- Jovem Aprendiz na área de RH do Madero.
+- Buscando uma oportunidade de **estágio em TI**.
+- Estudando estruturas de dados em C e desenvolvimento em Java.
 
 <br>
 
-### `~/technologies` ⌨︎
+### `~/technologies` 
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-211923?style=for-the-badge&logo=c&logoColor=F2A4CE" alt="C">
