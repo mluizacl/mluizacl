@@ -4,7 +4,7 @@
 
 # ୨୧ Maria Luiza
 
-### Ciência da Computação · Desenvolvimento de Software
+### Ciência da Computação · Explorando a tecnologia
 
 <sub>Aprendendo e construindo meu caminho na tecnologia.</sub>
 
@@ -27,14 +27,11 @@
 
 ### `~/about_me` ⋆˚✧
 
-Olá! Sou a **Maria Luiza**, estudante do **4º período de Ciência da Computação na Universidade Positivo**, em Curitiba – PR.
+Olá! Sou a Maria Luiza, estudante do 4º período de Ciência da Computação na Universidade Positivo, em Curitiba – PR.
 
 Tenho interesse em desenvolvimento de software e compartilho aqui meus projetos acadêmicos, estudos e minha evolução na programação.
 
-- Cursando Ciência da Computação desde 2025.
-- Jovem Aprendiz na área de RH do Madero.
-- Buscando uma oportunidade de **estágio em TI**.
-- Estudando estruturas de dados em C e desenvolvimento em Java.
+Cursando Ciência da Computação desde 2025.
 
 <br>
 
@@ -61,9 +58,10 @@ Tenho interesse em desenvolvimento de software e compartilho aqui meus projetos 
 ### `~/currently_learning` ♡
 
 ```text
-> Estruturas de dados em C.
-> Desenvolvimento de software em Java.
-> Aplicação de lógica de programação na resolução de problemas.
+> Desenvolvimento de software visual.
+> Sistemas computacionais de base.
+> Sistemas inteligentes.
+> Tópicos especiais em software.
 ```
 
 <br>
