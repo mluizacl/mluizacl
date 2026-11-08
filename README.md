@@ -57,7 +57,6 @@ Estudo Ciência da Computação na Universidade Positivo e por aqui compartilho 
 > Python
 > Machine Learning
 > Análise e tratamento de dados
-
 ```
 
 <br>
