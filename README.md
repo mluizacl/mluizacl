@@ -15,9 +15,6 @@
 <a href="https://mail.google.com/mail/?view=cm&fs=1&to=mluizac.lisboa%40gmail.com">
   <img src="https://img.shields.io/badge/E--mail-211923?style=for-the-badge&logo=gmail&logoColor=F2A4CE" alt="Enviar e-mail">
 </a>
-<a href="https://github.com/mluizacl">
-  <img src="https://img.shields.io/badge/GitHub-211923?style=for-the-badge&logo=github&logoColor=F2A4CE" alt="GitHub">
-</a>
 
 </div>
 
